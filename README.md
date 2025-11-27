@@ -1,11 +1,11 @@
 # Portafolio Digital – Programación  
 Este portafolio contiene los trabajos, proyectos y avances realizados durante el curso de Programación.  
-Incluye secciones como: Sobre mí, trabajos prácticos, exámenes, y habilidades adquiridas.
+Incluye las secciones: Sobre mí, trabajos prácticos, exámenes, y habilidades adquiridas.
 
 ---
 
 ## Sobre mí
-En la página principal encontrarás una breve descripción personal, mis intereses y mi foto.
+En la página principal encontrarás una breve descripción personal y mi foto.
 
 ---
 
@@ -18,7 +18,6 @@ En esta carpeta encontrarás:
 - Laboratorios  
 - Ejercicios prácticos  
 
-Cada trabajo incluye una breve descripción y un archivo `.zip` descargable.
 
 Carpeta: **/trabajos**
 
@@ -33,8 +32,8 @@ Carpeta: **/examenes**
 
 ---
 
-### Diplomas
-Incluye certificados y diplomas obtenidos en otros cursos realizados durante el año.
+### Cursos
+Incluye los cursos que he realizado.
 
 Carpeta: **/diplomas**
 
